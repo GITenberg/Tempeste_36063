@@ -1,0 +1,28 @@
+_repo: Tempeste_36063
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36063-h/images/tcover.jpg
+creator:
+  author:
+    agent_name: Negri, Ada
+    alias: Garlanda, Ada
+    birthdate: 1870
+    deathdate: 1945
+    gutenberg_agent_id: '38065'
+    url: http://www.gutenberg.org/2009/agents/38065
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2011-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36063'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry'
+- !lcc 'PQ'
+title: Tempeste
+url: http://www.gutenberg.org/ebooks/36063
